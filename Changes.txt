@@ -1,0 +1,24 @@
+Width 150% in:
+
+\\bigfix\F$\Program Files (x86)\BigFix Enterprise\BES Server\BESReportsServer\wwwroot\JavaScript\yui\build\autocomplete\assets\skins\sam
+
+Filter.css in \\bigfix\F$\Program Files (x86)\BigFix Enterprise\BES Server\BESReportsServer\wwwroot\css\besreports\ENU
+.Condition-SelectorListDiv {
+    width: 490px;
+}
+
+.Condition-PropertyPickerDiv .yui-ac-input {
+    width: 400px;
+}
+
+.Condition-PropertyPickerDiv {
+    width: 410px;
+}
+
+.Condition-Sizer {
+    width: 915px;
+}
+
+
+PropertiesComboBox-min.css in \\bigfix\F$\Program Files (x86)\BigFix Enterprise\BES Server\BESReportsServer\wwwroot\JavaScript\Properties
+.propertiesComboBoxContainer{overflow:visible;z-index:-1;}.PropertiesComboBoxOuterContainerCover{z-index:1000;position:relative;}.ComboBoxOptions .yui-ac-bd{max-height:510px;overflow:auto;overflow-x:hidden;}
